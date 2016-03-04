@@ -9,8 +9,8 @@ Collaborative notes!
 
 room | session 1 | session 2 | session 3
 --- | --- | --- | ---
-room 1 | | | 
-room 2 | | | 
-room 3 | | | 
-room 4 | | | 
-room 5 | | | 
+room 1 | [notes](#) | [notes](#) |[notes](#)
+room 2 | [notes](#) | [notes](#) | [notes](#)
+room 3 | [notes](#) | [notes](#) | [notes](#) 
+room 4 | [notes](#) | [notes](#) | [notes](#)
+room 5 | [notes](#) | [notes](#) | [notes](#)
