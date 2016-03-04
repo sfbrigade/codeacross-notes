@@ -2,11 +2,11 @@
 
 Welcome to CodeAcross Collaborative notes! Find the session you would like below:
 
- | room 1 | room 2 | room 3 | room 4 | room 5
+ | room A | room B | room C | room D | room E
 --- | --- | --- | --- | --- | ---
-session 1 | [notes](#) | [notes](#) | [notes](#) | [notes](#) | [notes](#) 
-session 2 | [notes](#) | [notes](#) | [notes](#) | [notes](#) | [notes](#) 
-session 3 | [notes](#) | [notes](#) | [notes](#) | [notes](#) | [notes](#)
+session 1 | [notes](#2) | [notes](#3) | [notes](#4) | [notes](#5) | [notes](#6) 
+session 2 | [notes](#7) | [notes](#8) | [notes](#9) | [notes](#10) | [notes](#11) 
+session 3 | [notes](#12) | [notes](#13) | [notes](#14) | [notes](#15) | [notes](#16)
 
 ### To Contribute notes (via comments)
 
