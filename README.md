@@ -4,9 +4,9 @@ Welcome to CodeAcross Collaborative notes! Find the session you would like below
 
  | room A | room B | room C | room D | room E
 --- | --- | --- | --- | --- | ---
-session 1 | [notes](#2) | [notes](#3) | [notes](#4) | [notes](#5) | [notes](#6) 
-session 2 | [notes](#7) | [notes](#8) | [notes](#9) | [notes](#10) | [notes](#11) 
-session 3 | [notes](#12) | [notes](#13) | [notes](#14) | [notes](#15) | [notes](#16)
+session 1 | [notes](https://github.com/sfbrigade/codeacross-notes/issues/2) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/3) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/4) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/5) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/6) 
+session 2 | [notes](https://github.com/sfbrigade/codeacross-notes/issues/7) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/8) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/9) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/10) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/11) 
+session 3 | [notes](https://github.com/sfbrigade/codeacross-notes/issues/12) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/13) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/14) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/15) | [notes](https://github.com/sfbrigade/codeacross-notes/issues/16)
 
 ### To Contribute notes (via comments)
 
