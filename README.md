@@ -11,7 +11,7 @@ session 3 | [notes](https://github.com/sfbrigade/codeacross-notes/issues/12) | [
 ### To Contribute notes (via comments)
 
 1. You need a GH account
-  - Steps to set up a GH account
+  - https://help.github.com/articles/signing-up-for-a-new-github-account/
 2. Go to c4sf.me/codeacross-notes
 3. Add notes!
 
